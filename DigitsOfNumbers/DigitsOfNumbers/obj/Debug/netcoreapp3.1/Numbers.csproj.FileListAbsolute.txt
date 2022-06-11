@@ -1,0 +1,12 @@
+/Users/yusifnazarbayov/Desktop/Numbers/Numbers/bin/Debug/netcoreapp3.1/Numbers.deps.json
+/Users/yusifnazarbayov/Desktop/Numbers/Numbers/bin/Debug/netcoreapp3.1/Numbers.runtimeconfig.json
+/Users/yusifnazarbayov/Desktop/Numbers/Numbers/bin/Debug/netcoreapp3.1/Numbers.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Desktop/Numbers/Numbers/bin/Debug/netcoreapp3.1/Numbers.dll
+/Users/yusifnazarbayov/Desktop/Numbers/Numbers/bin/Debug/netcoreapp3.1/Numbers.pdb
+/Users/yusifnazarbayov/Desktop/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.csprojAssemblyReference.cache
+/Users/yusifnazarbayov/Desktop/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Desktop/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.AssemblyInfo.cs
+/Users/yusifnazarbayov/Desktop/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Desktop/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.dll
+/Users/yusifnazarbayov/Desktop/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.pdb
+/Users/yusifnazarbayov/Desktop/Numbers/Numbers/obj/Debug/netcoreapp3.1/Numbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/yusifnazarbayov/Desktop/Numbers/DigitsOfNumbers/bin/Debug/netcoreapp3.1/DigitsOfNumbers.deps.json
+/Users/yusifnazarbayov/Desktop/Numbers/DigitsOfNumbers/bin/Debug/netcoreapp3.1/DigitsOfNumbers.runtimeconfig.json
+/Users/yusifnazarbayov/Desktop/Numbers/DigitsOfNumbers/bin/Debug/netcoreapp3.1/DigitsOfNumbers.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Desktop/Numbers/DigitsOfNumbers/bin/Debug/netcoreapp3.1/DigitsOfNumbers.dll
+/Users/yusifnazarbayov/Desktop/Numbers/DigitsOfNumbers/bin/Debug/netcoreapp3.1/DigitsOfNumbers.pdb
+/Users/yusifnazarbayov/Desktop/Numbers/DigitsOfNumbers/obj/Debug/netcoreapp3.1/DigitsOfNumbers.csprojAssemblyReference.cache
+/Users/yusifnazarbayov/Desktop/Numbers/DigitsOfNumbers/obj/Debug/netcoreapp3.1/DigitsOfNumbers.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Desktop/Numbers/DigitsOfNumbers/obj/Debug/netcoreapp3.1/DigitsOfNumbers.AssemblyInfo.cs
+/Users/yusifnazarbayov/Desktop/Numbers/DigitsOfNumbers/obj/Debug/netcoreapp3.1/DigitsOfNumbers.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Desktop/Numbers/DigitsOfNumbers/obj/Debug/netcoreapp3.1/DigitsOfNumbers.dll
+/Users/yusifnazarbayov/Desktop/Numbers/DigitsOfNumbers/obj/Debug/netcoreapp3.1/DigitsOfNumbers.pdb
+/Users/yusifnazarbayov/Desktop/Numbers/DigitsOfNumbers/obj/Debug/netcoreapp3.1/DigitsOfNumbers.genruntimeconfig.cache
